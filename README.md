@@ -1,4 +1,4 @@
-#Hi 👋, I'm Lawrence
+<h1 align="center">Hi 👋, I'm Lawrence</h1>
 
 - 🔭 I’m currently a Master's Student in ECE at Purdue University
 
